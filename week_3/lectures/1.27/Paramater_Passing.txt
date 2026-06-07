@@ -1,0 +1,6 @@
+Paramater Passing
+-pass by value (passes a copy of the varible)
+-pass by reference (When you pass a varible in it creates a new varible under the same adress that can modify the info under that adress)
+-pass by array ()
+-pass by pointer
+
